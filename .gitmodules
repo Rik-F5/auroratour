@@ -1,6 +1,0 @@
-[submodule "themes/hugo-hero-theme"]
-	path = themes/hugo-hero-theme
-	url = https://github.com/jugglerx/hugo-hero-theme.git
-[submodule "themes/airspace-hugo"]
-	path = themes/airspace-hugo
-	url = https://github.com/themefisher/airspace-hugo
