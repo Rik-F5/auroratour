@@ -1,5 +1,5 @@
 title = "Aurora Tour"
-baseURL = "www.auroratour.com"
+baseURL = "https://www.auroratour.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
